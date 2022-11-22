@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Banana.png</file>
+        <file>car.png</file>
+        <file>firehydrant.png</file>
+        <file>girls.png</file>
+        <file>gru.png</file>
+        <file>house.png</file>
+        <file>street.png</file>
+        <file>vector.png</file>
+        <file>strongminion.png</file>
+        <file>board.txt</file>
+        <file>minion.png</file>
+        <file>teddybear.png</file>
+        <file>sprinkles.jpg</file>
+        <file>wall.png</file>
+        <file>borders - left.png</file>
+        <file>borders - down.png</file>
+        <file>largegun.png</file>
+        <file>pinky.png</file>
+        <file>G.png</file>
+        <file>door.png</file>
+        <file>pinkdoor.png</file>
+        <file>lose.png</file>
+        <file>win.png</file>
+        <file>heart.png</file>
+    </qresource>
+</RCC>
